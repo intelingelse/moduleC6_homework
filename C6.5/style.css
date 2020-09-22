@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+}
+
+button {
+    font-family: Hack;
+    font-weight: bolder;
+    margin-top: 5em;
+    text-transform: uppercase;
+}
